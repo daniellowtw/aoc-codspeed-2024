@@ -1,7 +1,4 @@
-use std::{
-    collections::{BinaryHeap, HashSet},
-    fs,
-};
+use std::collections::{BinaryHeap, HashSet};
 
 #[aoc(day17, part1)]
 fn part1(pi: &str) -> String {
